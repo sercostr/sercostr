@@ -6,13 +6,6 @@ I build enterprise-scale data platforms and production ML systems that process m
 
 ### 🚀 What I Do
 
-**Data Engineering:**
-
-- Real-time ETL pipelines processing **500K+ transactions daily**
-- Knowledge Graph architecture on Neo4j (**1M+ nodes, 5M+ relationships**)
-- Cloud infrastructure optimization (30% cost reduction on AWS)
-- Data quality frameworks achieving **99.5% accuracy**
-
 **AI/ML Engineering:**
 
 - **14+ production ML models** with 70%+ accuracy (XGBoost, ExtraTreesRegressor)
@@ -20,23 +13,37 @@ I build enterprise-scale data platforms and production ML systems that process m
 - Production ML pipelines processing **100K+ daily predictions**
 - Knowledge Graph-powered semantic search across 10,000+ documents
 
+**Data Engineering:**
+
+- Real-time ETL pipelines processing **500K+ transactions daily**
+- Knowledge Graph architecture on Neo4j (**1M+ nodes, 5M+ relationships**)
+- Cloud infrastructure optimization (30% cost reduction on AWS)
+- Data quality frameworks achieving **99.5% accuracy**
+
 ### 💻 Tech Stack
 
-**Languages:** Python, SQL, Cypher
+**Programming Languages:** Python, SQL, Cypher, Bash, PySpark
 
-**Data Engineering:** PostgreSQL, Snowflake, Neo4j, Apache Airflow, AWS (S3, SQS, Lambda)
+**Databases:** PostgreSQL, Snowflake, Neo4j, Oracle, SQL Server, Redshift
 
-**AI/ML:** LangChain, OpenAI, XGBoost, Scikit-learn, Sentence-BERT, Vector Databases
+**AI/ML Frameworks:** LangChain, OpenAI, XGBoost, Scikit-learn, TensorFlow, Sentence-BERT, Vector Databases
 
-**Tools:** Docker, Git, Liquibase, REST APIs, Pandas, NumPy
+**Cloud & Infrastructure:** AWS (S3, SQS, Lambda, ECS, RDS), Docker, Kubernetes, Terraform
+
+**Data Engineering Tools:** Apache Airflow, dbt, Liquibase, Pandas, NumPy
+
+**DevOps & Other:** Git, CI/CD, Jenkins, REST APIs
 
 ### 🎯 Highlights
 
 - 6+ years of experience in pharmaceutical digital manufacturing
+- Built production-ready RAG systems using LangChain, OpenAI, and vector databases (Chroma, Pinecone, pgvector)
+- Created Tech Transfer RAG application integrating multiple document repositories for natural language Q&A
+- Developed 10+ LangChain projects demonstrating advanced RAG patterns and SQL agents
 - Architected data integration from 8+ source systems
 - Built 50+ Apache Airflow DAGs for orchestration
 - Developed 700+ Cypher queries for graph database operations
-- Created document intelligence systems with 91%+ accuracy
+- Created document intelligence systems with 91%+ accuracy for 10,000+ documents
 
 ### 📫 Let's Connect
 
